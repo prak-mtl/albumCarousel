@@ -1,0 +1,34 @@
+.album {
+  border: 2px solid #eaeaea;
+  margin: 20px;
+  padding: 30px 20px;
+}
+
+.imageTitle {
+  position: absolute;
+  top: 85%;
+  color: white;
+  left: 1%;
+  padding: 10px;
+  border: 1px solid #fefefe;
+}
+
+.imageId {
+  position: absolute;
+  top: 85%;
+  color: white;
+  right: 1%;
+  padding: 10px;
+  border: 1px solid #fefefe;
+}
+
+@media (max-width: 576px) {
+  .imageTitle {
+    padding: 0px;
+    top: 45%;
+  }
+  .imageId {
+    padding: 0px;
+    top: 62%;
+  }
+}
