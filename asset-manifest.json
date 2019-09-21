@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Album-Carousel/static/css/main.a0fa9a84.chunk.css",
+    "main.js": "/Album-Carousel/static/js/main.7e811009.chunk.js",
+    "main.js.map": "/Album-Carousel/static/js/main.7e811009.chunk.js.map",
+    "runtime~main.js": "/Album-Carousel/static/js/runtime~main.009527c4.js",
+    "runtime~main.js.map": "/Album-Carousel/static/js/runtime~main.009527c4.js.map",
+    "static/js/2.cc502190.chunk.js": "/Album-Carousel/static/js/2.cc502190.chunk.js",
+    "static/js/2.cc502190.chunk.js.map": "/Album-Carousel/static/js/2.cc502190.chunk.js.map",
+    "index.html": "/Album-Carousel/index.html",
+    "precache-manifest.9a0d864fb4f56539a3d72d4daedde44b.js": "/Album-Carousel/precache-manifest.9a0d864fb4f56539a3d72d4daedde44b.js",
+    "service-worker.js": "/Album-Carousel/service-worker.js",
+    "static/css/main.a0fa9a84.chunk.css.map": "/Album-Carousel/static/css/main.a0fa9a84.chunk.css.map"
+  }
+}
