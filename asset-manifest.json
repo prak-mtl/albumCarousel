@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Album-Carousel/static/css/main.a0fa9a84.chunk.css",
-    "main.js": "/Album-Carousel/static/js/main.c86753df.chunk.js",
-    "main.js.map": "/Album-Carousel/static/js/main.c86753df.chunk.js.map",
-    "runtime~main.js": "/Album-Carousel/static/js/runtime~main.009527c4.js",
-    "runtime~main.js.map": "/Album-Carousel/static/js/runtime~main.009527c4.js.map",
-    "static/js/2.3614b1e3.chunk.js": "/Album-Carousel/static/js/2.3614b1e3.chunk.js",
-    "static/js/2.3614b1e3.chunk.js.map": "/Album-Carousel/static/js/2.3614b1e3.chunk.js.map",
-    "index.html": "/Album-Carousel/index.html",
-    "precache-manifest.5a282f8aedd56487942e182a580eab25.js": "/Album-Carousel/precache-manifest.5a282f8aedd56487942e182a580eab25.js",
-    "service-worker.js": "/Album-Carousel/service-worker.js",
-    "static/css/main.a0fa9a84.chunk.css.map": "/Album-Carousel/static/css/main.a0fa9a84.chunk.css.map"
+    "main.css": "/albumCarousel/static/css/main.a0fa9a84.chunk.css",
+    "main.js": "/albumCarousel/static/js/main.b31b1c96.chunk.js",
+    "main.js.map": "/albumCarousel/static/js/main.b31b1c96.chunk.js.map",
+    "runtime~main.js": "/albumCarousel/static/js/runtime~main.5bec24ab.js",
+    "runtime~main.js.map": "/albumCarousel/static/js/runtime~main.5bec24ab.js.map",
+    "static/js/2.e49a0044.chunk.js": "/albumCarousel/static/js/2.e49a0044.chunk.js",
+    "static/js/2.e49a0044.chunk.js.map": "/albumCarousel/static/js/2.e49a0044.chunk.js.map",
+    "index.html": "/albumCarousel/index.html",
+    "precache-manifest.0e3795b60a8fb2034b827a9cdee5943c.js": "/albumCarousel/precache-manifest.0e3795b60a8fb2034b827a9cdee5943c.js",
+    "service-worker.js": "/albumCarousel/service-worker.js",
+    "static/css/main.a0fa9a84.chunk.css.map": "/albumCarousel/static/css/main.a0fa9a84.chunk.css.map"
   }
 }
