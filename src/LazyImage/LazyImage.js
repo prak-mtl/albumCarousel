@@ -13,7 +13,7 @@ const LazyImage = ({ src, aspectRatio, lazyLoad }) => {
     // Set the placeholder size on our wrapper div
     return (
         <div className="lazyImage" style={{ paddingTop }}>
-            <img className="lazyImage__img" data-src={src} />
+            <img className="lazyImage__img" data-src={src} slt={src}/>
         </div>
     );
 };
