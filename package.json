@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://prak-mtl.github.io/Album-Carousel",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "embla-carousel-react": "^1.2.1",
     "gh-pages": "^2.1.1",
